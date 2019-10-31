@@ -24,17 +24,6 @@ these users and their stories are listed on the
 Apache Tomcat, Tomcat, Apache, the Apache feather, and the Apache Tomcat
 project logo are trademarks of the Apache Software Foundation.
 
-### Get It
-
-For every major Tomcat version there is one download page containing
-links to the latest binary and source code downloads, but also
-links for browsing the download directories and archives:
-- [Tomcat 9](https://tomcat.apache.org/download-90.cgi)
-- [Tomcat 8](https://tomcat.apache.org/download-80.cgi)
-- [Tomcat 7](https://tomcat.apache.org/download-70.cgi)
-
-To facilitate choosing the right major Tomcat version one, we have provided a
-[version overview page](https://tomcat.apache.org/whichversion.html).
 
 ### Documentation
 
