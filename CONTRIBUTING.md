@@ -7,21 +7,6 @@ contributing.
 Please visit our [Get Involved page](https://tomcat.apache.org/getinvolved.html)
 for more information on how to contribute.
 
-## Code of Conduct
-
-This project and everyone participating in it is governed by the Apache
-software Foundation's
-[Code of Conduct](https://www.apache.org/foundation/policies/conduct.html). By
-participating, you are expected to adhere to this code. If you are aware of
-unacceptable behavior, please visit the
-[Reporting Guidelines page](https://www.apache.org/foundation/policies/conduct.html#reporting-guidelines)
-and follow the instructions there.
-
-## How Can I Contribute?
-
-Most of the contributions that we receive are code contributions, but you can
-also contribute to the documentation, wiki, etc., or simply report solid bugs
-for us to fix.
 
 ### Reporting Bugs
 
@@ -57,18 +42,7 @@ committers of the project for review and acceptance.
 
 You can provide a patch in one of the following ways (in order of preference):
 
-* Patch attachment to the Bugzilla issue
-* Github Pull Request
-> **Note:** Github is a mirror of the SVN repository that Tomcat is stored in
-and therefore it can't be merged outright. Your contribution will be converted
-into an SVN patch and committed with a mention of your name for credit.
-* Email the patch to the developer list. This is not preferred, but if no bug
-is associated with the patch, or you would like a developer review, an email
-may be appropriate.
-
-##### Get the Sources
-
-Now that you've chosen how you want to submit a patch, you need to get the
+you want to submit a patch, you need to get the
 source code.
 
 ###### Download The Source Distribution
@@ -122,8 +96,32 @@ copy of the repository, open a Github PR for review.
 with a patch attached for review.
 
 #### Waiting For Feedback
+* Patch attachment to the Bugzilla issue
+* Github Pull Request
+> **Note:** Github is a mirror of the SVN repository that Tomcat is stored in
+and therefore it can't be merged outright. Your contribution will be converted
+into an SVN patch and committed with a mention of your name for credit.
+* Email the patch to the developer list. This is not preferred, but if no bug
+is associated with the patch, or you would like a developer review, an email
+may be appropriate.
 
-It may take a while for committers to review. Please be patient during this
+##### Get the Sources
+
+
+Now that you've chosen how 
+It may take a whi* Patch attachment to the Bugzilla issue
+* Github Pull Request
+> **Note:** Github is a mirror of the SVN repository that Tomcat is stored in
+and therefore it can't be merged outright. Your contribution will be converted
+into an SVN patch and committed with a mention of your name for credit.
+* Email the patch to the developer list. This is not preferred, but if no bug
+is associated with the patch, or you would like a developer review, an email
+may be appropriate.
+
+##### Get the Sources
+
+
+Now that you've chosen how le for committers to review. Please be patient during this
 time as all committers are volunteers on the project. If a significant amount
 of time has lapsed since your submission, such as a couple of months, feel free
 to either update your BZ, PR, or email the dev list with a message to bump your
